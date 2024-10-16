@@ -1,11 +1,9 @@
 # Introduction-to-Python
 Basic Python programming language course
 
-This repository contains various projects and tasks that I completed during the introductory Python course. They are designed to practice basic programming concepts such as loops, conditionals, functions, lists, strings, datatypes, variables and working with Python libreries.
+This repository contains various tasks that I completed during the introductory Python course. They are designed to practice basic programming concepts such as loops, conditionals, functions, lists, strings, datatypes, variables and working with Python libreries.
 
 Content
-
-Project."US Medical insurance" - control flow, functions
 
 Google colab notebook 1 - data types, variables, control flow
 
