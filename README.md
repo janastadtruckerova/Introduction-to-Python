@@ -1,7 +1,7 @@
 # Introduction-to-Python
 Basic Python programming language course
 
-This repository contains various projects and tasks that I completed during the introductory Python course. They are designed to practice basic programming concepts such as loops, conditionals, functions, lists, strings, and working with data.
+This repository contains various projects and tasks that I completed during the introductory Python course. They are designed to practice basic programming concepts such as loops, conditionals, functions, lists, strings, datatypes, variables and working with Python libreries.
 
 Content
 
